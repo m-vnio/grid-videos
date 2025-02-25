@@ -114,8 +114,8 @@ $("#select").addEventListener("change", () => {
 });
 
 renderUrl(JSON.parse(localStorage.getItem("ls-array-url")));
-
+/*
 new Sortable($("#itemUrl"), {
   animation: 150, // Suaviza el movimiento
   //   ghostClass: "sortable-ghost", // Clase CSS temporal al mover
-});
+});*/
